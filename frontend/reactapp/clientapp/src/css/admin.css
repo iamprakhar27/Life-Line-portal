@@ -1,0 +1,32 @@
+.container3 {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right,#4CB8C4, #3CD3AD); 
+    background-image: url('/public/pic/pic14.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .form-container {
+    width: 400px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.858); 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 80px;
+
+  }
+  
+  .form-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .form-container button{
+   margin-left: 140px;
+
+  }
+  

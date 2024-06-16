@@ -1,0 +1,38 @@
+.main1{
+    background-image: url('/public/pic/pic32.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 10px;
+}
+
+.container4{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 450px;
+    background-color: rgba(255, 255, 255, 0.452); 
+    border-radius: 20px;
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.2); 
+    padding: 40px; 
+    /* background: linear-gradient(to right,#4CB8C4, #3CD3AD);  */
+}
+
+.container4 h2{
+    font-family: Oblique;
+    font-size: 40px;
+}
+
+.card-body{
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.card-body button {
+    width: 310px;
+}

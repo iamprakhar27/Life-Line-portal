@@ -1,0 +1,67 @@
+.main5{
+    background-image: url('/public/pic/pic32.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 10px;
+}
+
+.container8 {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 100px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    width: 500px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.452); 
+    border-radius: 50px;
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.2); 
+    padding: 40px; 
+  }
+  
+  .container8 h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .container8 form {
+    width: 100%; 
+    max-width: 400px; 
+    margin: 0 auto; 
+  }
+  
+  .container8 .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .container8 input[type="text"],
+  .container8 input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #443e3e;
+    border-radius: 5px;
+  }
+  
+  .container8 label {
+    font-weight: bold;
+  }
+  
+  .container8 button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 400px;
+  }
+  
+  .container8 button:hover {
+    background-color: #0056b3;
+  }
+  
