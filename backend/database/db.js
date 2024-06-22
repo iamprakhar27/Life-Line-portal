@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const dburl ="mongodb+srv://prakhargupta:prakhargupta@cluster0.49xlw76.mongodb.net/lifeline_db"
+const dburl ="your mongodb database cluster"
 
 const connectdb = async () =>{
     try
